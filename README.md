@@ -8,4 +8,4 @@ In response to the HRRP, health organizations nationwide are developing protocol
 Deliverables – Analysis, Predictive Analytics 
 
 1. Analyze the cost of post-discharge care plans versus their effects on patient readmissions
-2. Using your analysis from 1, design a predictive model predicting the readmission related metrics
+2. Design a predictive model predicting the readmission related metrics
